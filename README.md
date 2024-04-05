@@ -3,6 +3,6 @@ Embark on a transformative journey to master JavaScript in just 21 days with our
 
 <ul>
   <li>
-    <a href="https://luxury-taffy-439ede.netlify.app">Memory_game text</a>
+    <a href="https://luxury-taffy-439ede.netlify.app">Memory_game </a>
   </li>
 </ul>
