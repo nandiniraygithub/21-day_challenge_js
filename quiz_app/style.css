@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+body {
+    display: flex;
+
+    justify-content: center;
+   align-items: center;
+      font-family: "Press Start 2P", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    background: url(Pixel\ art.png) no-repeat center center fixed; /* Adjusted background properties */
+    background-size: cover; /* Adjusted background properties */
+    margin: 0; /* Added to reset default margin */
+    padding: 0; /* Added to reset default padding */
+    
+}
+
+
+.quiz-container h2{
+    color: #4CAF50;
+}
+
+/* Quiz container animation */
+.quiz-container {
+
+    max-width: 600px;
+    animation: fadeIn 1s ease-in-out;
+    background: rgba( 255, 255, 255, 0.25 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Button hover effect */
+.btn {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+
+.btn:hover {
+    background-color: #45a049;
+}
