@@ -4,5 +4,8 @@ Embark on a transformative journey to master JavaScript in just 21 days with our
 <ul>
   <li>
     <a href="https://luxury-taffy-439ede.netlify.app">Memory_game </a>
+   <a href="https://661040cea1c26a2ef6a230f9--luxury-taffy-439ede.netlify.app/">quiz_app</a>
+     <a href="https://661042c41f1aca2fdf03998d--tangerine-sprite-9203ce.netlify.app/">BMI-calculator</a>
+    
   </li>
 </ul>
