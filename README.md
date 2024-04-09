@@ -11,4 +11,8 @@ Embark on a transformative journey to master JavaScript in just 21 days with our
   <li>
     <a href="https://661042c41f1aca2fdf03998d--tangerine-sprite-9203ce.netlify.app/">BMI-calculator</a>
   </li>
+  <li>
+    <a href="https://6615053ae16a048c645cf4ca--imaginative-ganache-db76c8.netlify.app/ ">Whack-a-mole</a>
+  </li>
+  
 </ol>
